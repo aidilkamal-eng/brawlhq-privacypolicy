@@ -1,0 +1,1 @@
+# brawlhq-privacypolicy
