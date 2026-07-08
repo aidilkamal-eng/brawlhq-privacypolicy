@@ -2,7 +2,7 @@
 
 **Effective Date:** July 8, 2026
 
-This Privacy Policy explains how [App Name] ("we," "us," or "our") handles information when you use this app. This app is a personal portfolio project built by an individual developer in Indonesia.
+This Privacy Policy explains how Brawl HQ ("we," "us," or "our") handles information when you use this app. This app is a personal portfolio project built by an individual developer in Indonesia.
 
 ## 1. Information We Collect
 
@@ -40,8 +40,8 @@ This app isn't directed at children under 13, and we don't knowingly collect dat
 
 Questions about this policy? Reach out at:
 
-**[App Name]**
-Email: [Insert Contact Email]
+**[Brawl HQ]**
+Email: clubwhalerassociate@gmail.com
 
 ## 8. Changes to This Policy
 
